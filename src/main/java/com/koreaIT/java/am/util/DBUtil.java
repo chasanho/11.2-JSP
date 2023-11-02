@@ -1,4 +1,4 @@
-package com.koreaIT.example.JAM.util;
+package com.koreaIT.java.am.util;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.koreaIT.example.JAM.exception.SQLErrorException;
+import com.koreaIT.java.am.exception.SQLErrorException;
 
 public class DBUtil {
 	public static Map<String, Object> selectRow(Connection dbConn, SecSql sql) {
