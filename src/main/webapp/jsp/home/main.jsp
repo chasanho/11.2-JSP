@@ -4,13 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Main Page</title>
 </head>
 <body>
-	<ul>
-		<li>1번, ~~~, ~~</li>
-		<li></li>
-		<li></li>
-	</ul>
+	<h1>메인 페이지</h1>
+	
+	<div><a href="../article/write">글쓰기</a></div>
+	<div><a href="../article/list">게시물 목록</a></div>
 </body>
 </html>
